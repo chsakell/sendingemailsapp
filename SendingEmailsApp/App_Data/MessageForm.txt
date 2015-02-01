@@ -1,0 +1,7 @@
+﻿Dear @@name@@ @@lastName@@,
+
+@@message@@
+
+Login: @@loginLink@@
+
+SocialNetwork
